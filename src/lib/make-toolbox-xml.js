@@ -29,140 +29,38 @@ const motion = function (isInitialSetup, isStage, targetId) {
                     <field name="NUM">10</field>
                 </shadow>
             </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">10</field>
-                </shadow>
-            </value>
-        </block>    <block type="motion_movesteps">
-            <value name="STEPS">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
+        </block>    
         <block type="motion_movebacksteps">
             <value name="STEPS">
                 <shadow type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">10</field>
                 </shadow>
             </value>
         </block>
         <block type="motion_moveupdownsteps">
             <value name="STEPS">
                 <shadow type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">10</field>
                 </shadow>
             </value>
         </block>  <block type="motion_movebacksteps">
             <value name="STEPS">
                 <shadow type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">10</field>
                 </shadow>
             </value>
         </block>
         <block type="motion_turnright">
             <value name="DEGREES">
                 <shadow type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">15</field>
                 </shadow>
             </value>
         </block>
         <block type="motion_turnleft">
             <value name="DEGREES">
                 <shadow type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">15</field>
                 </shadow>
             </value>
         </block>
@@ -176,495 +74,32 @@ const motion = function (isInitialSetup, isStage, targetId) {
         <block type="motion_gotoxy">
             <value name="X">
                 <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">0</field>
                 </shadow>
             </value>
             <value name="Y">
                 <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">0</field>
                 </shadow>
             </value>
         </block>
         <block type="motion_changebyxy">
             <value name="DX">
                 <shadow type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">10</field>
                 </shadow>
             </value>
             <value name="DY">
                 <shadow type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">10</field>
                 </shadow>
             </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>   <block type="motion_goto">
-            <value name="TO">
-                <shadow type="motion_goto_menu">
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_gotoxy">
-            <value name="X">
-                <shadow id="movex" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="Y">
-                <shadow id="movey" type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
-        <block type="motion_changebyxy">
-            <value name="DX">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-            <value name="DY">
-                <shadow type="math_number">
-                    <field name="NUM">67</field>
-                </shadow>
-            </value>
-        </block>
+        </block>   
+        
         <block type="motion_glideto" id="motion_glideto">
             <value name="SECS">
                 <shadow type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">1</field>
                 </shadow>
             </value>
             <value name="TO">
@@ -675,17 +110,17 @@ const motion = function (isInitialSetup, isStage, targetId) {
         <block type="motion_glidesecstoxy">
             <value name="SECS">
                 <shadow type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">1</field>
                 </shadow>
             </value>
             <value name="X">
                 <shadow id="glidex" type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">0</field>
                 </shadow>
             </value>
             <value name="Y">
                 <shadow id="glidey" type="math_number">
-                    <field name="NUM">67</field>
+                    <field name="NUM">p</field>
                 </shadow>
             </value>
         </block>
