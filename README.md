@@ -12,7 +12,7 @@ Do NOT submit extensions here! Adding Extensions to the gallery is **against Esp
 Clone the repository with `git clone https://github.com/espressoblocks/espresso-gui` then run `bash setup.sh` for a linux environment, and the untested `setup.bat` for a windows environment.
 
 ## Modify Links
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [PenguinMod](https://penguinmod.github.io/penguinmod.github.io/) and now [EspressoBlocks](https://espressoblocks.com) 😀
+espresso-gui modified for use in [PenguinMod](https://penguinmod.github.io/penguinmod.github.io/) then modified for use in [EspressoBlocks](https://espressoblocks.com) 😀
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DinosaurMod/dinosaurmod.github.io/)
 ## Setup
 
